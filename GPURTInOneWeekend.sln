@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPURTInOneWeekend", "GPURTInOneWeekend\GPURTInOneWeekend.csproj", "{013302EF-2895-411C-9D98-513AB7223DD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013302EF-2895-411C-9D98-513AB7223DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013302EF-2895-411C-9D98-513AB7223DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013302EF-2895-411C-9D98-513AB7223DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013302EF-2895-411C-9D98-513AB7223DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E40C7252-29BC-4567-9DCF-42AC55CEA21B}
+	EndGlobalSection
+EndGlobal
